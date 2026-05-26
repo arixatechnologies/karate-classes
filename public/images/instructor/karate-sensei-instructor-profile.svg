@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400" role="img" aria-label="Experienced karate sensei instructor at Mahira Karate Classes">
+  <rect width="1200" height="1400" fill="#071A3D"/>
+  <circle cx="600" cy="270" r="135" fill="#F8FAFC"/>
+  <path d="M365 475h470l180 710H185z" fill="#fff"/>
+  <path d="M405 510 600 780 795 510" fill="none" stroke="#071A3D" stroke-width="36"/>
+  <rect x="315" y="850" width="570" height="58" rx="29" fill="#111827"/>
+  <circle cx="880" cy="260" r="180" fill="#FACC15" opacity=".16"/>
+  <text x="105" y="1260" fill="#FACC15" font-family="Arial" font-size="52" font-weight="900">Instructor image placeholder</text>
+</svg>

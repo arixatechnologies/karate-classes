@@ -1,0 +1,39 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mahira Shotokan Karate-Do India logo</title>
+  <desc id="desc">Circular maroon, green, and gold karate academy badge with tiger emblem.</desc>
+  <circle cx="256" cy="256" r="250" fill="#fffdf8" stroke="#d6d3cc" stroke-width="2"/>
+  <circle cx="256" cy="256" r="226" fill="#8b120f"/>
+  <circle cx="256" cy="256" r="214" fill="none" stroke="#f7c948" stroke-width="8"/>
+  <circle cx="256" cy="256" r="151" fill="#073f21" stroke="#f7c948" stroke-width="6"/>
+  <path id="topArc" d="M83 252a173 173 0 0 1 346 0" />
+  <path id="bottomArc" d="M112 298a150 150 0 0 0 288 0" />
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="800" fill="#fffdf8" letter-spacing="5">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">MAHIRA SHOTOKAN KARATE - DO INDIA</textPath>
+  </text>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="33" font-weight="900" fill="#f7c948" letter-spacing="4">
+    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">STRIVE - ACHIEVE</textPath>
+  </text>
+  <path d="M104 354l8 17 18 2-13 12 4 18-17-9-16 9 3-18-13-12 18-2 8-17Zm304 0l8 17 18 2-13 12 4 18-17-9-16 9 3-18-13-12 18-2 8-17Z" fill="#f7c948"/>
+  <g fill="#f7c948">
+    <path d="M200 182c24-33 66-40 100-18 17 11 28 27 31 45 26-3 50 10 61 33 8 18 5 38-8 54-7 8-18-1-12-10 10-14 11-28 4-40-10-18-34-24-55-16-8 3-16-2-16-11 0-18-8-33-23-42-22-14-52-12-70 8 11 2 23 7 34 16 26 21 32 53 17 81-15 29-48 46-84 42-7-1-10-10-5-15 35-34 41-66 18-95-7-9-10-21 8-32Z"/>
+    <path d="M179 206c15 9 27 22 34 38 4 10-10 17-16 8-8-13-18-23-31-29-9-4-5-22 13-17Z"/>
+    <path d="M159 244c17 6 30 18 38 34 5 9-8 18-15 10-9-11-20-19-33-23-10-3-6-26 10-21Z"/>
+    <path d="M151 289c21 14 44 20 69 18 12-1 13 16 2 20-28 8-57 0-80-18-9-7-2-27 9-20Z"/>
+    <path d="M257 230c14 7 26 17 36 30 7 9-4 21-14 14-11-8-21-16-34-22-10-5-1-29 12-22Z"/>
+    <path d="M302 251c19 8 34 20 44 37 6 10-8 20-16 11-11-12-23-22-38-29-11-5-3-24 10-19Z"/>
+    <path d="M270 293c31 10 60 6 86-13 10-7 20 7 11 16-27 28-72 36-111 14-10-6 0-22 14-17Z"/>
+    <path d="M207 335c27 8 55 4 81-10 12-6 20 10 10 18-28 22-65 29-99 12-11-6-5-24 8-20Z"/>
+    <path d="M318 183c21 2 37 11 48 28 7 11-8 22-17 13-10-10-20-17-33-22-9-3-8-20 2-19Z"/>
+  </g>
+  <g fill="#ffdf64">
+    <circle cx="304" cy="144" r="7"/>
+    <circle cx="324" cy="136" r="7"/>
+    <circle cx="346" cy="136" r="8"/>
+    <circle cx="367" cy="143" r="7"/>
+    <circle cx="381" cy="160" r="7"/>
+    <circle cx="376" cy="224" r="10"/>
+    <circle cx="359" cy="207" r="8"/>
+    <circle cx="342" cy="190" r="7"/>
+    <path d="M345 164c9 15 9 28 0 39-9-11-9-24 0-39Z"/>
+  </g>
+</svg>

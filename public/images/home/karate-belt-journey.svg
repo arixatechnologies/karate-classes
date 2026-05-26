@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Karate belt journey from beginner to black belt">
+  <rect width="1600" height="900" fill="#071A3D"/>
+  <g transform="translate(130 210)">
+    <rect width="210" height="90" rx="18" fill="#E5E7EB"/><rect x="230" width="210" height="90" rx="18" fill="#fff"/><rect x="460" width="210" height="90" rx="18" fill="#FACC15"/><rect x="690" width="210" height="90" rx="18" fill="#22C55E"/><rect x="920" width="210" height="90" rx="18" fill="#7C2D12"/><rect x="1150" width="210" height="90" rx="18" fill="#111827" stroke="#fff"/>
+  </g>
+  <path d="M180 520h1240" stroke="#FACC15" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <text x="130" y="710" fill="#FACC15" font-family="Arial" font-size="58" font-weight="900">Belt journey image placeholder</text>
+</svg>

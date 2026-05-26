@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-label="Karate training gallery at Mahira Karate Classes">
+  <rect width="1400" height="1000" fill="#F8FAFC"/>
+  <rect x="60" y="80" width="590" height="380" rx="18" fill="#071A3D"/><rect x="720" y="80" width="620" height="260" rx="18" fill="#0B3D91"/><rect x="720" y="390" width="620" height="500" rx="18" fill="#111827"/><rect x="60" y="520" width="590" height="370" rx="18" fill="#DC2626"/>
+  <circle cx="300" cy="220" r="70" fill="#fff"/><circle cx="970" cy="190" r="58" fill="#fff"/><circle cx="1020" cy="570" r="86" fill="#fff"/><circle cx="310" cy="660" r="72" fill="#fff"/>
+  <path d="M200 310h210l80 110H130zM890 250h170l120 70H800zM890 700h280l80 150H790zM195 750h230l90 100H115z" fill="#fff"/>
+  <text x="90" y="955" fill="#071A3D" font-family="Arial" font-size="48" font-weight="900">Gallery cover placeholder</text>
+</svg>

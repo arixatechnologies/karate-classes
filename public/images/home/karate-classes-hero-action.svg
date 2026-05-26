@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Student practicing karate self defense at Mahira Karate Classes in Vizag">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#071A3D"/><stop offset=".55" stop-color="#0B3D91"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <path d="M0 720 1600 560v440H0z" fill="#ffffff" opacity=".09"/>
+  <circle cx="1120" cy="280" r="170" fill="#FACC15" opacity=".18"/>
+  <path d="M990 260c-70 10-118 58-142 128l-240 22c-42 4-68 46-52 84 12 29 43 46 74 40l272-53 86 180-210 120c-44 25-51 86-14 121 24 23 60 27 89 10l282-166c43-25 59-79 38-124l-67-145 145 33 172 156c31 28 78 25 105-6 27-32 23-80-9-107l-203-174-214-57c-28-47-67-68-112-62z" fill="#fff" opacity=".88"/>
+  <circle cx="1034" cy="196" r="58" fill="#fff" opacity=".88"/>
+  <text x="90" y="860" fill="#FACC15" font-family="Arial" font-size="54" font-weight="900">Hero image placeholder</text>
+</svg>
