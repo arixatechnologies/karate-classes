@@ -5,7 +5,7 @@ export function Logo() {
     <div className="flex items-center gap-3">
       <div className="logo-mark relative grid h-14 w-14 place-items-center rounded-full bg-white p-1 shadow-glow">
         <Image
-          src="/images/logo/mahira-shotokan-karate-logo.svg"
+          src="/images/logo/mahira-shotokan-karate-logo.png"
           alt="Mahira Shotokan Karate-Do India logo"
           width={56}
           height={56}
